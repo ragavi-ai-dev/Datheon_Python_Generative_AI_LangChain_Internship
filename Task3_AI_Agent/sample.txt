@@ -1,0 +1,10 @@
+My name is Ragavi.
+
+I am learning Python and Artificial Intelligence.
+
+I am developing an AI Agent using LangChain and Gemini.
+
+This project includes three tools:
+1. Web Search
+2. Calculator
+3. Local File Reader
